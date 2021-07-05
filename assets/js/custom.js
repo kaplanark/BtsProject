@@ -13,4 +13,4 @@ function mouseOver_fb1(){
 function mouseOver_fb2() {
     document.getElementById("fb_2").click();
 }
-//Firmalar Gruplama Butonları
+//Firmalar Gruplama Butonları 
