@@ -1,0 +1,50 @@
+/*Up Button*/
+#upBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    left: 50%;
+  }
+  #imgBtn{
+      height: 48px;
+  }
+  /*Up Button*/
+
+/*istatistikler*/
+.container-x {
+    margin-top: 100px
+}
+.counter-box-x {
+    display: block;
+    background: #ffffff;
+    padding: 40px 20px 37px;
+    text-align: center;
+}
+.counter-box-x p {
+    margin: 5px 0 0;
+    padding: 0;
+    color: #4e4e4e;
+    font-size: 18px;
+    font-weight: 500;
+}
+.counter-box-x i {
+    font-size: 36px;
+    margin: 0 0 15px;
+    color: #6e6e6e;
+}
+.counter-x {
+    display: block;
+    font-size: 24px;
+    font-weight: 700;
+    color: #666;
+    line-height: 28px;
+}
+/*istatistikler*/
+
