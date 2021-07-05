@@ -2,7 +2,7 @@
 #upBtn {
     display: none;
     position: fixed;
-    bottom: 110px;
+    bottom: 130px;
     right: 5px;
     z-index: 99;
     font-size: 18px;
