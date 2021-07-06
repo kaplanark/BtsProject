@@ -15,8 +15,7 @@
   #imgBtn{
       height: 48px;
   }
-  /*Up Button*/
-
+  
 /*istatistikler*/
 .container-x {
     margin-top: 100px
@@ -46,9 +45,16 @@
     color: #666;
     line-height: 28px;
 }
-/*istatistikler*/
 
+/*Firma Kartları*/
 .company_by{
     background-color: #939eff;
+}
+
+/*Ön Basvuru Butonu*/
+#app_btn{
+    background-color: rgb(89, 197, 98) ;
+    border-color: rgb(89, 197, 98);
+    color: rgb(255, 255, 255);
 }
 
