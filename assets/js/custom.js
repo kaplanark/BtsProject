@@ -17,11 +17,13 @@ function topFunction() {
 //Up Button Function
 
 //Firmalar Gruplama Butonları
-document.getElementById("fb_1").onmouseover = function () {
-  mouseOver_fb1();
-};
-document.getElementById("fb_2").onmouseover = function () {
-  mouseOver_fb2();
+window.onload = function () {
+  document.getElementById("fb_1").onmouseover = function () {
+    mouseOver_fb1();
+  };
+  document.getElementById("fb_2").onmouseover = function () {
+    mouseOver_fb2();
+  };
 };
 function mouseOver_fb1() {
   document.getElementById("fb_1").click();
